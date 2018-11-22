@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "8da0e3dc-f870-4cff-b53a-2af25b1de49e",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "pappu_04": {
+      "ver": "1.0.3",
+      "uuid": "7ba41a0f-940a-439e-bb7b-7b94179b6003",
+      "rawTextureUuid": "8da0e3dc-f870-4cff-b53a-2af25b1de49e",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": -0.5,
+      "offsetY": 1,
+      "trimX": 0,
+      "trimY": 5,
+      "width": 59,
+      "height": 48,
+      "rawWidth": 60,
+      "rawHeight": 60,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

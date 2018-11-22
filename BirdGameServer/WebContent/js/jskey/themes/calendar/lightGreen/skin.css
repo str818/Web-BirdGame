@@ -1,0 +1,47 @@
+.WebDate {cursor:pointer;border:1px solid #999999;height:16px;background:#ffffff url(../datePicker.gif) no-repeat right;}
+.jskey_cal {width:204px;border:1px solid #77bbaa;padding:2px;background-color:#ffffff;box-sizing:content-box;}
+.jskey_cal * {padding:0;margin:0 auto;width:auto;background-color:inherit;font-size:12px;font-family:"Microsoft Yahei","\5B8B\4F53",arial;color:#000000;text-align:center;vertical-align:middle;box-sizing:content-box;}
+.jskey_cal .div {width:202px;}
+
+.jskey_cal .jsarr {width:18px;height:18px;overflow:hidden;margin:0 auto;padding:0;display:block;display:inline-block;}
+.jskey_cal .jsarr div {box-sizing:content-box;margin:0;padding:0;width:0;height:0;border:5px dashed transparent;overflow:hidden;}
+.jskey_cal .jsarr .up {margin:1px 0px 0px 4px;border-bottom:5px solid #000;}
+.jskey_cal .jsarr .down {margin:7px 0px 0px 4px;left:1px;border-top:5px solid #000;}
+.jskey_cal .jsarr .left {margin:4px 0px 0px 1px;left:-2px;border-right:5px solid #000;}
+.jskey_cal .jsarr .right {margin:4px 0px 0px 7px;left:4px;border-left:5px solid #000;}
+
+.jskey_cal .btn {width:18px;height:16px;line-height:16px;overflow:hidden;cursor:pointer;background-color:#daf3f5;float:left;}
+.jskey_cal .title {line-height:20px;font-weight:bold;background-color:#77bbaa;color:#ffffff;}
+.jskey_cal th,.jskey_cal .dy,
+.jskey_cal td,.jskey_cal .dm,
+.jskey_cal .btn {border:1px solid #77bbaa;}
+
+.jskey_cal .dymd {border:0;font-size:12px;}
+.jskey_cal .dymd .dy {float:left;}
+.jskey_cal .dymd .dm {float:right;}
+.jskey_cal .dymd .dp {border-top:none;border-bottom:none;border-left:none;}
+.jskey_cal .dymd .dn {border-top:none;border-bottom:none;border-right:none;}
+.jskey_cal .dymd .year {width:47px;border:none;background-color:#ffffff;}
+.jskey_cal .dymd .month {width:72px;border:none;background-color:#ffffff;}
+
+.jskey_cal .dymd:after {content:"";display:block;height:0;visibility:hidden;clear:both;}
+
+.jskey_cal .date {position:relative;margin:2px 0;}
+.jskey_cal .date .choose {width:100%;position:absolute;left:0;top:0;}
+.jskey_cal .date .close {padding-right:3px;cursor:pointer;}
+.jskey_cal .date table {position:relative;width:100%;border:0px;font-size:12px;border-collapse:collapse;border-spacing:0px;}
+.jskey_cal .date td {line-height:18px;text-align:center;background-color:#daf3f5;color:#cccccc;}
+.jskey_cal .date .hday {color:#999999;}
+.jskey_cal .date .hholiday {color:#996666;}
+.jskey_cal .date .holiday {cursor:pointer;color:#ff0000;}/*双休日，节假日*/
+.jskey_cal .date .day {color:#000000;}/*工作日*/
+.jskey_cal .date .sel {background-color:#77bbaa;color:#ffffff;}/*已选*/
+.jskey_cal .date .today {background-color:#99dee9;color:#000000;}
+.jskey_cal .date .over {cursor:pointer;background-color:#99dee9;color:#000000;}
+
+.jskey_cal dhmsbtn {}
+.jskey_cal .dhms {float:left;}
+.jskey_cal .dhms .btn {width:16px;background-color:#ffffff;}
+.jskey_cal .dhms label {float:left;line-height:18px;}
+.jskey_cal .dbtn {float:right;padding-left:2px;}
+.jskey_cal .dbtn .btn {float:left;width:auto;margin:0;padding:0 4px;cursor:pointer;margin-left:-1px;}

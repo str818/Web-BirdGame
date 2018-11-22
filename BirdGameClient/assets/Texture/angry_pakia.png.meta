@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "2173a7b2-d22c-4a0a-8430-3ddc66ea65bc",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "angry_pakia": {
+      "ver": "1.0.3",
+      "uuid": "d4f873ef-8a7e-4a92-b2a7-1989a28f7676",
+      "rawTextureUuid": "2173a7b2-d22c-4a0a-8430-3ddc66ea65bc",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 52,
+      "height": 51,
+      "rawWidth": 52,
+      "rawHeight": 51,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

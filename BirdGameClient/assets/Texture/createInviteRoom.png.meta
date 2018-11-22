@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "a56b1080-465c-4ccd-b042-0f8f69e736d8",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "createInviteRoom": {
+      "ver": "1.0.3",
+      "uuid": "05e56cc9-fa6f-4f3b-bba8-6e74f793a743",
+      "rawTextureUuid": "a56b1080-465c-4ccd-b042-0f8f69e736d8",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": -1.5,
+      "offsetY": 1.5,
+      "trimX": 16,
+      "trimY": 10,
+      "width": 774,
+      "height": 129,
+      "rawWidth": 809,
+      "rawHeight": 152,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "58e3873f-09f1-4445-b33b-c098e0b98474",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "happy_pakia": {
+      "ver": "1.0.3",
+      "uuid": "59363bb2-e743-4ce1-a48f-cc3a783c3126",
+      "rawTextureUuid": "58e3873f-09f1-4445-b33b-c098e0b98474",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0.5,
+      "trimX": 0,
+      "trimY": 2,
+      "width": 52,
+      "height": 46,
+      "rawWidth": 52,
+      "rawHeight": 51,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}
